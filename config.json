@@ -10,8 +10,8 @@
 			"order": "random",
 			"slides": [
 				{
-					"image": "https://ce-eu.wgcdn.co/dcont/game_loading/default/img/TS-5.png",
-					"localization": "https://ce-eu.wgcdn.co/dcont/game_loading/default/loc/TS-5.xml"
+					"image": "https://githubraw.com/DaLewis17/wot-test/a11df16c5e4da284b433f2a49b2f3d38213dd17b/slides/back_39_without_sparks.png",
+					"localization": "https://raw.githubusercontent.com/DaLewis17/wot-test/main/xml/1.xml?token=GHSAT0AAAAAACUCWRDZYBGCHRW67HZ66IDUZUBPHDA"
 				}
 				
 			]
@@ -25,8 +25,8 @@
 			"order": "random",
 			"slides": [
 				{
-					"image": "https://ce-eu.wgcdn.co/dcont/game_loading/d_day/img/SMN_DDay_operation_101_dday_key_art_WOTK-GL.png",
-					"localization": "https://ce-eu.wgcdn.co/dcont/game_loading/d_day/loc/d_day.xml"
+					"image": "https://githubraw.com/DaLewis17/wot-test/a11df16c5e4da284b433f2a49b2f3d38213dd17b/slides/back_39_without_sparks.png",
+					"localization": "https://raw.githubusercontent.com/DaLewis17/wot-test/main/xml/d_day.xml?token=GHSAT0AAAAAACUCWRDY4GT6UDH4JUL6B2E4ZUBPHMA"
 				}
 			]
 		}
